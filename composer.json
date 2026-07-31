@@ -50,11 +50,5 @@
         "Doxswap": "Blaspsoft\\Doxswap\\Facades\\Doxswap"
       }
     }
-  },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/tolu360/onym"
-    }
-  ]
+  }
 }
