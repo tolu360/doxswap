@@ -17,7 +17,7 @@
   ],
   "require": {
     "php": "^8.2",
-    "blaspsoft/onym": "^1.0",
+    "blaspsoft/onym": "dev-updates",
     "illuminate/support": "^8.0|^9.0|^10.0|^11.0|^12.0|^13.0"
   },
   "require-dev": {
@@ -50,5 +50,11 @@
         "Doxswap": "Blaspsoft\\Doxswap\\Facades\\Doxswap"
       }
     }
-  }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/tolu360/onym"
+    }
+  ]
 }
